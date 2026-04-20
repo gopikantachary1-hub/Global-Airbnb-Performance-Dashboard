@@ -24,16 +24,22 @@
 
 
 ➼ The Dashboard was built using the following tools and technologies:
+
    • Power BI Deskop : Main data visualization performance used for report creation.
+   
    • Power Query : Data transformation and cleaning layer for reshaping and preparing the data.
+   
    • Dax (Data Analysis Expression) : Used for calculated measures, dynamics visuals and conditional logic.
+   
    • Data Modeling : Relationship establish among (listings, cities, reviews).
+   
    • File Format : .pbix for development and .png for dashboard previews.
 
 ➼ Data Source :
    Kaggle.com
 
 ➼ Screenshots
+
    ![Dashboard Preview](https://github.com/gopikantachary1-hub/Global-Airbnb-Performance-Dashboard/blob/main/Screenshot%20of%20dashboard_1.png)
 
 ![Dashboard Preview](https://github.com/gopikantachary1-hub/Global-Airbnb-Performance-Dashboard/blob/main/Screenshot%20of%20dashboard_2.png)
