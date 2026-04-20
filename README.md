@@ -29,6 +29,6 @@
 ➼ Screenshots
    ![Dashboard Preview](https://github.com/gopikantachary1-hub/Global-Airbnb-Performance-Dashboard/blob/main/Screenshot%20of%20dashboard_1.png)
 
-![Dashboard Preview](https://github.com/gopikantachary1-hub/Global-Airbnb-Performance-Dashboard/blob/main/Screenshot%20of%20dashboard_1.png)
+![Dashboard Preview](https://github.com/gopikantachary1-hub/Global-Airbnb-Performance-Dashboard/blob/main/Screenshot%20of%20dashboard_2.png)
 
 ![Dashboard Preview](https://github.com/gopikantachary1-hub/Global-Airbnb-Performance-Dashboard/blob/main/Screenshot%20of%20dashboard_1.png)
